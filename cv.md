@@ -5,6 +5,10 @@
 + Phone: +375-29-563-03-48
 + Discord: Nicky(@NickyDN)
 
+## Education
+
+**Maksim Tank Belarusian State Pedagogical University (BSPU)**
+
 ## About myself
 
 I have a pedagogical education (by specialty history and society), but at my speciality i have never worked.
