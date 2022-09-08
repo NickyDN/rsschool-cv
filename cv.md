@@ -25,6 +25,17 @@ On basic level i have the following tools:
 - **VS Code**
 - **Git**
 
+## Code Example
+
+```
+"use strict";
+var a = 5;
+var b = 5;
+var c = 5;
+var sum = a + b + c;
+alert(sum); // sum of variables a, b, c.
+```
+
 ## Languages:
 
 **English - A1**
